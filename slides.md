@@ -21,6 +21,9 @@ Notes for the _first_ slide!
 
 # Normal comment to summary
 
+normal
+*italic*
+**bold**
 
 ```
 		// Square function $d \rightarrow d^2 $
