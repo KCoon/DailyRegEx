@@ -4,6 +4,8 @@ class: left, top
 # Daily RegEx
 ### and my friend Vi[m]
 
+Url: [Url](https://kcoon.github.io/DailyRegEx)
+
 ???
 
 Notes for the _first_ slide!
