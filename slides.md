@@ -59,6 +59,16 @@ I'm using RegEx for refactoring at daily coding.
 
 The following slides are showing examples of refactoring C#-code
 
+## But first a simple search and replace with vim
+
+Vim has a command mode which is initiated with `:`
+
+With the command `s` (for substitution) we can make a simple search and replace
+
+```
+:s/<pattern>/<substitution>/<parameter>
+```
+
 ---
 # Move comments from behind to above
 
